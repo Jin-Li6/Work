@@ -1,0 +1,696 @@
+{
+    "group_floor": [],
+    "header": {},
+    "sections": [
+        {
+            "body": {
+                "items": [
+                    {
+                        "action": {
+                            "jumptype": "product",
+                            "log_code": "319891pcactivitygallery001001#t=ad\u0026act=product\u0026page=activity\u0026pid=10000214\u0026page_id=9891\u0026bid=3469821.1\u0026adp=3256\u0026adm=18330",
+                            "login": false,
+                            "path": "10000214",
+                            "type": "product"
+                        },
+                        "ad_position_id": 3256,
+                        "auto_last": false,
+                        "category_key": "",
+                        "h": 1240,
+                        "img_gif_url": "",
+                        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b1f75719df222491cd55ae4da697b17d.jpg?w=5120\u0026h=1240\u0026bg=F4F7FE",
+                        "img_url_color": "#F4F7FE",
+                        "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b1f75719df222491cd55ae4da697b17d.jpg?f=webp\u0026w=5120\u0026h=1240\u0026bg=F4F7FE",
+                        "material_id": 18330,
+                        "type": "image",
+                        "video_url": "",
+                        "w": 5120
+                    },
+                    {
+                        "action": {
+                            "jumptype": "product",
+                            "log_code": "319891pcactivitygallery002001#t=ad\u0026act=product\u0026page=activity\u0026pid=10000213\u0026page_id=9891\u0026bid=3469821.2\u0026adp=1089\u0026adm=18331",
+                            "login": false,
+                            "path": "10000213",
+                            "type": "product"
+                        },
+                        "ad_position_id": 1089,
+                        "auto_last": false,
+                        "category_key": "",
+                        "h": 1240,
+                        "img_gif_url": "",
+                        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e5c30dce68183fcdc66c62aa66f9598a.jpg?w=5120\u0026h=1240\u0026bg=F3F8FE",
+                        "img_url_color": "#F3F8FE",
+                        "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e5c30dce68183fcdc66c62aa66f9598a.jpg?f=webp\u0026w=5120\u0026h=1240\u0026bg=F3F8FE",
+                        "material_id": 18331,
+                        "type": "image",
+                        "video_url": "",
+                        "w": 5120
+                    }
+                ]
+            },
+            "stat": "",
+            "view_type": "gallery"
+        },
+        {
+            "block_id": "3456940",
+            "body": {
+                "bg_color": "#f6ab2e",
+                "bottom": 0,
+                "h": 345,
+                "items": [
+                    {
+                        "action": {
+                            "log_code": "319891pcactivitycells_auto_fill001002#t=normal\u0026act=other\u0026page=activity\u0026page_id=9891\u0026bid=3456940.1",
+                            "login": false,
+                            "path": "",
+                            "type": "none"
+                        },
+                        "h": 345,
+                        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6117f4620361a7f6af22361c828f3ca9.jpg",
+                        "img_url_color": "#BE1C3D",
+                        "img_url_webp": "http://i8.mifile.cn/v1/a1/7cd5f3f7-8661-bdd0-69c5-fae7fed99350.webp",
+                        "path_type": "image",
+                        "w": 5120,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "recommend_flag": "0",
+                "top": "0",
+                "w": 5120
+            },
+            "stat": "",
+            "view_type": "cells_auto_fill"
+        },
+        {
+            "body": {
+                "bg_color": "#bb1a39",
+                "bottom": 0,
+                "btn_color": "#ea625b",
+                "btn_txt_color": "#ffffff",
+                "items": [
+                    {
+                        "action": {
+                            "log_code": "319891pcactivityproduction_list_one001003#t=product\u0026act=other\u0026page=activity\u0026page_id=9891\u0026bid=3479796.1\u0026pid=10000198",
+                            "login": false,
+                            "path": "10000198",
+                            "type": "product"
+                        },
+                        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/56e18024bb8ae2b09a2e75dc4fa6d8aa.jpg",
+                        "img_url_color": "#F6F6F6",
+                        "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/56e18024bb8ae2b09a2e75dc4fa6d8aa.jpg?f=webp",
+                        "is_stand_img": false,
+                        "market_price": "2799",
+                        "product_brief": "1亿像素 五摄四闪",
+                        "product_id": "10000198",
+                        "product_name": "小米CC9 Pro",
+                        "product_org_price": "2799",
+                        "product_price": "2599",
+                        "product_rebate": {},
+                        "show_price": "2599",
+                        "show_price_qi": true
+                    }
+                ],
+                "top": 15
+            },
+            "stat": "",
+            "view_type": "production_list_one"
+        },
+        {
+            "body": {
+                "bg_color": "#bb1a39",
+                "bottom": 0,
+                "btn_color": "#ea625b",
+                "btn_txt_color": "#ffffff",
+                "items": [
+                    {
+                        "action": {
+                            "log_code": "319891pcactivityproduction_list_two001004#t=product\u0026act=other\u0026page=activity\u0026page_id=9891\u0026bid=3479797.1\u0026pid=10000180",
+                            "login": false,
+                            "path": "10000180",
+                            "type": "product"
+                        },
+                        "btn_txt": "立即预约",
+                        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/bb368ee3086a10e733a138ce262aa43d.jpg",
+                        "img_url_color": "#F5F5F5",
+                        "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/bb368ee3086a10e733a138ce262aa43d.jpg?f=webp",
+                        "is_stand_img": false,
+                        "market_price": "1399",
+                        "product_brief": "6400万全场景四摄",
+                        "product_id": "10000180",
+                        "product_name": "Redmi Note 8 Pro",
+                        "product_org_price": "1399",
+                        "product_price": "1299",
+                        "product_rebate": {},
+                        "show_price": "1299",
+                        "show_price_qi": true
+                    },
+                    {
+                        "action": {
+                            "log_code": "319891pcactivityproduction_list_two002004#t=product\u0026act=other\u0026page=activity\u0026page_id=9891\u0026bid=3479797.2\u0026pid=10000181",
+                            "login": false,
+                            "path": "10000181",
+                            "type": "product"
+                        },
+                        "btn_txt": "立即购买",
+                        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/465ea7594d174311d85ba9b58b4c7137.jpg?w=1212\u0026h=716",
+                        "img_url_color": "#F5F5F5",
+                        "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/465ea7594d174311d85ba9b58b4c7137.jpg?f=webp\u0026w=1212\u0026h=716",
+                        "is_stand_img": false,
+                        "market_price": "999",
+                        "product_brief": "千元4800万四摄",
+                        "product_id": "10000181",
+                        "product_name": "Redmi Note 8",
+                        "product_org_price": "999",
+                        "product_price": "999",
+                        "product_rebate": {},
+                        "show_price": "999",
+                        "show_price_qi": true
+                    }
+                ],
+                "top": "15"
+            },
+            "stat": "",
+            "view_type": "production_list_two"
+        },
+        {
+            "body": {
+                "bg_color": "#bb1a39",
+                "bottom": 0,
+                "btn_color": "#ea625b",
+                "btn_txt_color": "#ffffff",
+                "items": [
+                    {
+                        "action": {
+                            "log_code": "319891pcactivityproduction_list_two001005#t=product\u0026act=other\u0026page=activity\u0026page_id=9891\u0026bid=3559350.1\u0026pid=10000163",
+                            "login": false,
+                            "path": "10000163",
+                            "type": "product"
+                        },
+                        "btn_txt": "立即购买",
+                        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/027867a38d4fd4d782b16118e4197985.jpg",
+                        "img_url_color": "#DCE5ED",
+                        "img_url_webp": "http://i8.mifile.cn/v1/a1/07d2fc0c-7951-5e91-b97b-5e47a60c6577.webp",
+                        "is_stand_img": false,
+                        "market_price": "1799",
+                        "product_brief": "3200万自拍，4800万三摄",
+                        "product_id": "10000163",
+                        "product_name": "小米CC9",
+                        "product_org_price": "1799",
+                        "product_price": "1499",
+                        "product_rebate": {},
+                        "show_price": "1499",
+                        "show_price_qi": true
+                    },
+                    {
+                        "action": {
+                            "log_code": "319891pcactivityproduction_list_two002005#t=product\u0026act=other\u0026page=activity\u0026page_id=9891\u0026bid=3559350.2\u0026pid=10000164",
+                            "login": false,
+                            "path": "10000164",
+                            "type": "product"
+                        },
+                        "btn_txt": "立即购买",
+                        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d894ae533bc28b59b172e3d46581cefd.jpg?w=1212\u0026h=716",
+                        "img_url_color": "#C1BBD5",
+                        "img_url_webp": "http://i8.mifile.cn/v1/a1/62c0f9cd-78f7-5fb3-ee08-1fc62d77de4d.webp?w=1212\u0026h=716",
+                        "is_stand_img": false,
+                        "market_price": "1599",
+                        "product_brief": "3200万自拍，4800万三摄",
+                        "product_id": "10000164",
+                        "product_name": "小米CC9e",
+                        "product_org_price": "1599",
+                        "product_price": "1299",
+                        "product_rebate": {},
+                        "show_price": "1299",
+                        "show_price_qi": false
+                    }
+                ],
+                "top": 15
+            },
+            "stat": "",
+            "view_type": "production_list_two"
+        },
+        {
+            "body": {
+                "bg_color": "#bb1a39",
+                "bottom": 0,
+                "btn_color": "#ea625b",
+                "btn_txt_color": "#ffffff",
+                "items": [
+                    {
+                        "action": {
+                            "log_code": "319891pcactivityproduction_list_two001007#t=product\u0026act=other\u0026page=activity\u0026page_id=9891\u0026bid=3456311.1\u0026pid=10000152",
+                            "login": false,
+                            "path": "10000152",
+                            "type": "product"
+                        },
+                        "btn_txt": "立即购买",
+                        "img_url": "https: //cdn.cnbj1.fds.api.mi-img.com/mi-mall/8f2ab52a8c96e5b9ae692576763d641c.jpg?w=1212\u0026h=716",
+                        "img_url_color": "#BCC0CB",
+                        "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8f2ab52a8c96e5b9ae692576763d641c.jpg?w=1212\u0026h=716",
+                        "is_stand_img": false,
+                        "market_price": "599",
+                        "product_brief": "小巧大电量 持久流畅",
+                        "product_id": "10000152",
+                        "product_name": "Redmi 7A",
+                        "product_org_price": "599",
+                        "product_price": "579",
+                        "product_rebate": {},
+                        "show_price": "579",
+                        "show_price_qi": true
+                    },
+                    {
+                        "action": {
+                            "log_code": "319891pcactivityproduction_list_two002007#t=product\u0026act=other\u0026page=activity\u0026page_id=9891\u0026bid=3456311.2\u0026pid=10000181",
+                            "login": false,
+                            "path": "10000181",
+                            "type": "product"
+                        },
+                        "btn_txt": "立即购买",
+                        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/465ea7594d174311d85ba9b58b4c7137.jpg",
+                        "img_url_color": "#F5F5F5",
+                        "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/465ea7594d174311d85ba9b58b4c7137.jpg?f=webp",
+                        "is_stand_img": false,
+                        "market_price": "999",
+                        "product_brief": "千元4800万四摄",
+                        "product_id": "10000181",
+                        "product_name": "Redmi Note 8",
+                        "product_org_price": "999",
+                        "product_price": "999",
+                        "product_rebate": {},
+                        "show_price": "999",
+                        "show_price_qi": true
+                    }
+                ],
+                "top": "15"
+            },
+            "stat": "",
+            "view_type": "production_list_two"
+        },
+        {
+            "block_id": "3456314",
+            "body": {
+                "bg_color": "#ed622b",
+                "bottom": 0,
+                "h": 345,
+                "items": [
+                    {
+                        "action": {
+                            "log_code": "319891pcactivitycells_auto_fill001009#t=normal\u0026act=other\u0026page=activity\u0026page_id=9891\u0026bid=3456314.1",
+                            "login": false,
+                            "path": "",
+                            "type": "none"
+                        },
+                        "h": 345,
+                        "img_url": "https: //cdn.cnbj1.fds.api.mi-img.com/mi-mall/785767ec454a2ed8b249820ca00d694c.jpg",
+                        "img_url_color": "#BE1C3E",
+                        "img_url_webp": "http://i8.mifile.cn/v1/a1/048686a0-83c0-132e-92e0-b50ca998b18a.webp",
+                        "path_type": "image",
+                        "w": 5120,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "recommend_flag": "0",
+                "top": "0",
+                "w": 5120
+            },
+            "stat": "",
+            "view_type": "cells_auto_fill"
+        },
+        {
+            "body": {
+                "bg_color": "#bb1a39",
+                "bottom": 0,
+                "btn_color": "#ea625b",
+                "btn_txt_color": "#ffffff",
+                "items": [
+                    {
+                        "action": {
+                            "log_code": "319891pcactivityproduction_list_one001010#t=product\u0026act=other\u0026page=activity\u0026page_id=9891\u0026bid=3456315.1\u0026pid=10000180",
+                            "login": false,
+                            "path": "10000180",
+                            "type": "product"
+                        },
+                        "btn_txt": "立即预约",
+                        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/12cd78c1f07dfb66301c50c5a6d40d45.jpg",
+                        "img_url_color": "#F6F6F6",
+                        "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/12cd78c1f07dfb66301c50c5a6d40d45.jpg?f=webp",
+                        "is_stand_img": false,
+                        "market_price": "1399",
+                        "product_brief": "6400万全场景四摄，专业游戏处理器 ",
+                        "product_id": "10000180",
+                        "product_name": "Redmi Note 8 Pro",
+                        "product_org_price": "1399",
+                        "product_price": "1299",
+                        "product_rebate": {},
+                        "show_price": "1299",
+                        "show_price_qi": true
+                    }
+                ],
+                "top": 15
+            },
+            "stat": "",
+            "view_type": "production_list_one"
+        },
+        {
+            "block_id": "3456319",
+            "body": {
+                "bg_color": "",
+                "bottom": 0,
+                "h": 345,
+                "items": [
+                    {
+                        "action": {
+                            "log_code": "319891pcactivitycells_auto_fill001013#t=normal\u0026act=other\u0026page=activity\u0026page_id=9891\u0026bid=3456319.1",
+                            "login": false,
+                            "path": "",
+                            "type": "none"
+                        },
+                        "h": 345,
+                        "img_url": "https: //cdn.cnbj1.fds.api.mi-img.com/mi-mall/6f528be5a1a16c4bf325fc508c2074d3.jpg",
+                        "img_url_color": "#CE4139",
+                        "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6f528be5a1a16c4bf325fc508c2074d3.jpg",
+                        "path_type": "image",
+                        "w": 5120,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "recommend_flag": "0",
+                "top": "0",
+                "w": 5120
+            },
+            "stat": "",
+            "view_type": "cells_auto_fill"
+        },
+        {
+            "body": {
+                "bg_color": "#ce3d38",
+                "bottom": 0,
+                "btn_color": "#ea625b",
+                "btn_txt_color": "#ffffff",
+                "items": [
+                    {
+                        "action": {
+                            "log_code": "319891pcactivityproduction_list_one001014#t=product\u0026act=other\u0026page=activity\u0026page_id=9891\u0026bid=3456320.1\u0026pid=10000181",
+                            "login": false,
+                            "path": "10000181",
+                            "type": "product"
+                        },
+                        "btn_txt": "立即购买",
+                        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ab6b12c30ca36bfca5c9ee7adcb30f11.jpg",
+                        "img_url_color": "#F6F6F6",
+                        "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ab6b12c30ca36bfca5c9ee7adcb30f11.jpg?f=webp",
+                        "is_stand_img": false,
+                        "market_price": "999",
+                        "product_brief": "4800万四摄，骁龙665处理器",
+                        "product_id": "10000181",
+                        "product_name": "Redmi Note 8",
+                        "product_org_price": "999",
+                        "product_price": "999",
+                        "product_rebate": {},
+                        "show_price": "999",
+                        "show_price_qi": true
+                    }
+                ],
+                "top": 15
+            },
+            "stat": "",
+            "view_type": "production_list_one"
+        },
+        {
+            "body": {
+                "bg_color": "#ce3d38",
+                "bottom": 0,
+                "btn_color": "#ea625b",
+                "btn_txt_color": "#ffffff",
+                "items": [
+                    {
+                        "action": {
+                            "log_code": "319891pcactivityproduction_list_two001015#t=product\u0026act=other\u0026page=activity\u0026page_id=9891\u0026bid=3456321.1\u0026pid=10000163",
+                            "login": false,
+                            "path": "10000163",
+                            "type": "product"
+                        },
+                        "btn_txt": "立即购买",
+                        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/027867a38d4fd4d782b16118e4197985.jpg?w=1212\u0026h=716",
+                        "img_url_color": "#DCE5ED",
+                        "img_url_webp": "http://i8.mifile.cn/v1/a1/07d2fc0c-7951-5e91-b97b-5e47a60c6577.webp?w=1212\u0026h=716",
+                        "is_stand_img": false,
+                        "market_price": "1799",
+                        "product_brief": "3200万自拍，4800万三摄",
+                        "product_id": "10000163",
+                        "product_name": "小米CC9",
+                        "product_org_price": "1799",
+                        "product_price": "1499",
+                        "product_rebate": {},
+                        "show_price": "1499",
+                        "show_price_qi": true
+                    },
+                    {
+                        "action": {
+                            "log_code": "319891pcactivityproduction_list_two002015#t=product\u0026act=other\u0026page=activity\u0026page_id=9891\u0026bid=3456321.2\u0026pid=10000164",
+                            "login": false,
+                            "path": "10000164",
+                            "type": "product"
+                        },
+                        "btn_txt": "立即购买",
+                        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d894ae533bc28b59b172e3d46581cefd.jpg",
+                        "img_url_color": "#C1BBD5",
+                        "img_url_webp": "http://i8.mifile.cn/v1/a1/62c0f9cd-78f7-5fb3-ee08-1fc62d77de4d.webp",
+                        "is_stand_img": false,
+                        "market_price": "1599",
+                        "product_brief": "3200万自拍，4800万三摄",
+                        "product_id": "10000164",
+                        "product_name": "小米CC9e",
+                        "product_org_price": "1599",
+                        "product_price": "1299",
+                        "product_rebate": {},
+                        "show_price": "1299",
+                        "show_price_qi": false
+                    }
+                ],
+                "top": 15
+            },
+            "stat": "",
+            "view_type": "production_list_two"
+        },
+        {
+            "block_id": "3456325",
+            "body": {
+                "bg_color": "#ce3d38",
+                "bottom": 0,
+                "h": 345,
+                "items": [
+                    {
+                        "action": {
+                            "log_code": "319891pcactivitycells_auto_fill001017#t=normal\u0026act=other\u0026page=activity\u0026page_id=9891\u0026bid=3456325.1",
+                            "login": false,
+                            "path": "",
+                            "type": "none"
+                        },
+                        "h": 345,
+                        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7282ee10ca8b94576589d602d3369868.jpg",
+                        "img_url_color": "#BE1C3E",
+                        "img_url_webp": "http://i8.mifile.cn/v1/a1/98b612a8-2d53-ebc7-448a-3ec775206d39.webp",
+                        "path_type": "image",
+                        "w": 5120,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "recommend_flag": "0",
+                "top": "0",
+                "w": 5120
+            },
+            "stat": "",
+            "view_type": "cells_auto_fill"
+        },
+        {
+            "body": {
+                "bg_color": "#bb1a39",
+                "bottom": 0,
+                "btn_color": "#ea625b",
+                "btn_txt_color": "#ffffff",
+                "items": [
+                    {
+                        "action": {
+                            "log_code": "319891pcactivityproduction_list_two001018#t=product\u0026act=other\u0026page=activity\u0026page_id=9891\u0026bid=3456326.1\u0026pid=10000164 ",
+                            "login": false,
+                            "path": "10000164",
+                            "type": "product"
+                        },
+                        "btn_txt": "立即购买",
+                        "img_url": "https: //cdn.cnbj1.fds.api.mi-img.com/mi-mall/1662a39b563bf3363b42a0082bfa7a78.jpg",
+                        "img_url_color": "#D8E0E8",
+                        "img_url_webp": "http://i8.mifile.cn/v1/a1/582eb904-f804-9e7f-7846-210bcafc68fd.webp",
+                        "is_stand_img": false,
+                        "market_price": "1599",
+                        "product_brief": "3200万自拍，4800万三摄",
+                        "product_id": "10000164",
+                        "product_name": "小米CC9e",
+                        "product_org_price": "1599",
+                        "product_price": "1299",
+                        "product_rebate": {},
+                        "show_price": "1299",
+                        "show_price_qi": false
+                    },
+                    {
+                        "action": {
+                            "log_code": "319891pcactivityproduction_list_two002018#t=product\u0026act=other\u0026page=activity\u0026page_id=9891\u0026bid=3456326.2\u0026pid=10140",
+                            "login": false,
+                            "path": "10140",
+                            "type": "product"
+                        },
+                        "btn_txt": "立即购买",
+                        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c000ca3dd763bbbd80acd69e125b302e.jpg",
+                        "img_url_color": "#EBEBEC",
+                        "img_url_webp": "http://i8.mifile.cn/v1/a1/57a40a03-7565-58ca-0aa6-6b6e280461ff.webp",
+                        "is_stand_img": false,
+                        "market_price": "2599",
+                        "product_brief": "8GB+256GB，100%美图相机",
+                        "product_id": "10140",
+                        "product_name": "小米CC9 美图定制版",
+                        "product_org_price": "2599",
+                        "product_price": "1999",
+                        "product_rebate": {
+                            "1": "约返39.98元",
+                            "2": "约返39.98元",
+                            "4": "约返39.98元"
+                        },
+                        "show_price": "1999",
+                        "show_price_qi": false
+                    }
+                ],
+                "top": 15
+            },
+            "stat": "",
+            "view_type": "production_list_two"
+        },
+        {
+            "block_id": "3456329",
+            "body": {
+                "bg_color": "#ce3d38",
+                "bottom": 0,
+                "h": 345,
+                "items": [
+                    {
+                        "action": {
+                            "log_code": "319891pcactivitycells_auto_fill001019#t=normal\u0026act=other\u0026page=activity\u0026page_id=9891\u0026bid=3456329.1",
+                            "login": false,
+                            "path": "",
+                            "type": "none"
+                        },
+                        "h": 345,
+                        "img_url": "https: //cdn.cnbj1.fds.api.mi-img.com/mi-mall/62abc208cd58cf766bb78c2f8e13e768.jpg",
+                        "img_url_color": "#CE4039",
+                        "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/62abc208cd58cf766bb78c2f8e13e768.jpg",
+                        "path_type": "image",
+                        "w": 5120,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "recommend_flag": "0",
+                "top": "0",
+                "w": 5120
+            },
+            "stat": "",
+            "view_type": "cells_auto_fill"
+        },
+        {
+            "body": {
+                "bg_color": "#ce3d38",
+                "bottom": 0,
+                "btn_color": "#ea625b",
+                "btn_txt_color": "#ffffff",
+                "items": [
+                    {
+                        "action": {
+                            "log_code": "319891pcactivityproduction_list_one001020#t=product\u0026act=other\u0026page=activity\u0026page_id=9891\u0026bid=3457070.1\u0026pid=10000180",
+                            "login": false,
+                            "path": "10000180",
+                            "type": "product"
+                        },
+                        "btn_txt": "立即预约",
+                        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/12cd78c1f07dfb66301c50c5a6d40d45.jpg",
+                        "img_url_color": "#F6F6F6",
+                        "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/12cd78c1f07dfb66301c50c5a6d40d45.jpg?f=webp",
+                        "is_stand_img": false,
+                        "market_price": "1399",
+                        "product_brief": "6400万全场景四摄，专业游戏处理器 ",
+                        "product_id": "10000180",
+                        "product_name": "Redmi Note 8 Pro",
+                        "product_org_price": "1399",
+                        "product_price": "1299",
+                        "product_rebate": {},
+                        "show_price": "1299",
+                        "show_price_qi": true
+                    }
+                ],
+                "top": 15
+            },
+            "stat": "",
+            "view_type": "production_list_one"
+        },
+        {
+            "body": {
+                "bg_color": "#ce3d38",
+                "bottom": "0",
+                "btn_color": "#ea625b",
+                "btn_txt_color": "#ffffff",
+                "items": [
+                    {
+                        "action": {
+                            "log_code": "319891pcactivityproduction_list_two001021#t=product\u0026act=other\u0026page=activity\u0026page_id=9891\u0026bid=3456330.1\u0026pid=10000175",
+                            "login": false,
+                            "path": "10000175",
+                            "type": "product"
+                        },
+                        "btn_txt": "立即购买",
+                        "img_url": "https: //cdn.cnbj1.fds.api.mi-img.com/mi-mall/c04006cfa4f51c070c53ace1758652bd.jpg?w=1212\u0026h=716",
+                        "img_url_color": "#F5F5F5",
+                        "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c04006cfa4f51c070c53ace1758652bd.jpg?f=webp\u0026w=1212\u0026h=716",
+                        "is_stand_img": false,
+                        "market_price": "2699",
+                        "product_brief": "骁龙855 Plus ",
+                        "product_id": "10000175",
+                        "product_name": "黑鲨手机2 Pro",
+                        "product_org_price": "2699",
+                        "product_price": "2699",
+                        "product_rebate": {},
+                        "show_price": "2699",
+                        "show_price_qi": false
+                    },
+                    {
+                        "action": {
+                            "log_code": "319891pcactivityproduction_list_two002021#t=product\u0026act=other\u0026page=activity\u0026page_id=9891\u0026bid=3456330.2\u0026pid=10000181",
+                            "login": false,
+                            "path": "10000181",
+                            "type": "product"
+                        },
+                        "btn_txt": "立即购买",
+                        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/465ea7594d174311d85ba9b58b4c7137.jpg?w=1212\u0026h=716",
+                        "img_url_color": "#F5F5F5",
+                        "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/465ea7594d174311d85ba9b58b4c7137.jpg?f=webp\u0026w=1212\u0026h=716",
+                        "is_stand_img": false,
+                        "market_price": "999",
+                        "product_brief": "千元4800万四摄",
+                        "product_id": "10000181",
+                        "product_name": "Redmi Note 8",
+                        "product_org_price": "999",
+                        "product_price": "999",
+                        "product_rebate": {},
+                        "show_price": "999",
+                        "show_price_qi": true
+                    }
+                ],
+                "top": "15"
+            },
+            "stat": "",
+            "view_type": "production_list_two"
+        }
+    ]
+}

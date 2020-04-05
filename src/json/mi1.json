@@ -1,0 +1,116 @@
+{
+    "phone":[
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0099822e42b4428cb25c4cdebc6ca53d.jpg",
+        "product_id": 10000214,
+        "product_name": "小米10",
+        "product_brief": "骁龙865/1亿像素相机",
+        "product_price": "3999",
+        "product_org_price": "3999",
+        "show_price_qi": true,
+        "action": {
+            "type": "product",
+            "path": "//item.mi.com/10000214.html",
+            "log_code": "31pchomepagelist_eight_product000001#t=product&act=product&page=homepage&pid=10000214&page_id=10530&bid=3480926.3"
+        }
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2c16238f786e4f93bdb175d7bf21aa47.jpg",
+        "product_id": 10000203,
+        "product_name": "Redmi K30",
+        "product_brief": "120Hz流速屏，全速热爱",
+        "product_price": "1599",
+        "product_org_price": "1599",
+        "show_price_qi": true,
+        "action": {
+            "type": "url",
+            "path": "https://item.mi.com/product/10000203.html?selected=10000203",
+            "log_code": "31pchomepagelist_eight_product001001#t=product&act=webview&page=homepage&page_id=10530&bid=3480926.4&pid=10000203"
+        }
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/53641901fbc28cbcdb495b17fdf69e46.jpg",
+        "product_id": 10000204,
+        "product_name": "Redmi K30 5G",
+        "product_brief": "双模5G，120Hz流速屏",
+        "product_price": "1999",
+        "product_org_price": "1999",
+        "show_price_qi": true,
+        "action": {
+            "type": "url",
+            "path": "https://item.mi.com/product/10000204.html?cfrom=search&selected=10000204&pClass=p",
+            "log_code": "31pchomepagelist_eight_product002001#t=product&act=webview&page=homepage&page_id=10530&bid=3480926.5&pid=10000204"
+        }
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/07270cc09689eb9b13b29aa9f6bc41eb.jpg",
+        "product_id": 10000198,
+        "product_name": "小米CC9 Pro",
+        "product_brief": "1亿像素 五摄四闪",
+        "product_price": "2599",
+        "product_org_price": "2799",
+        "show_price_qi": true,
+        "action": {
+            "type": "product",
+            "path": "//item.mi.com/10000198.html",
+            "log_code": "31pchomepagelist_eight_product003001#t=product&act=product&page=homepage&pid=10000198&page_id=10530&bid=3480926.6"
+        }
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d295c4fb500d163a7045dc715b47f808.jpg",
+        "product_id": 10000190,
+        "product_name": "Redmi 8",
+        "product_brief": "5000mAh超长续航",
+        "product_price": "749",
+        "product_org_price": "799",
+        "show_price_qi": true,
+        "action": {
+            "type": "url",
+            "path": "https://www.mi.com/redmi8",
+            "log_code": "31pchomepagelist_eight_product004001#t=product&act=webview&page=homepage&page_id=10530&bid=3480926.7&pid=10000190"
+        }
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c924c3f3436b6934495fd98f159ee3f7.jpg",
+        "product_id": 10000191,
+        "product_name": "Redmi 8A",
+        "product_brief": "5000mAh超长续航",
+        "product_price": "599",
+        "product_org_price": "699",
+        "show_price_qi": true,
+        "action": {
+            "type": "url",
+            "path": "https://www.mi.com/redmi8a",
+            "log_code": "31pchomepagelist_eight_product005001#t=product&act=webview&page=homepage&page_id=10530&bid=3480926.8&pid=10000191"
+        }
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6f2493e6c6fe8e2485c407e5d75e3651.jpg",
+        "product_id": 10000180,
+        "product_name": "Redmi Note 8 Pro",
+        "product_brief": "6400万全场景四摄",
+        "product_price": "1299",
+        "product_org_price": "1399",
+        "show_price_qi": true,
+        "action": {
+            "type": "url",
+            "path": "http://www.mi.com/redminote8pro",
+            "log_code": "31pchomepagelist_eight_product006001#t=product&act=webview&page=homepage&page_id=10530&bid=3480926.9&pid=10000180"
+        }
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4c87947d104ee5833913e4c520108f16.jpg",
+        "product_id": 10000181,
+        "product_name": "Redmi Note 8",
+        "product_brief": "千元4800万四摄",
+        "product_price": "999",
+        "product_org_price": "999",
+        "show_price_qi": true,
+        "action": {
+            "type": "url",
+            "path": "http://www.mi.com/redminote8",
+            "log_code": "31pchomepagelist_eight_product007001#t=product&act=webview&page=homepage&page_id=10530&bid=3480926.10&pid=10000181"
+        }
+    }
+]
+}

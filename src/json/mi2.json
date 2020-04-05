@@ -1,0 +1,115 @@
+
+{"home":[
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cccac948e1b8ffb47f1fecde67692e60.jpg",
+        "product_id": 9732,
+        "product_name": "米家飞行员太阳镜 Pro",
+        "product_brief": "尼龙偏光，轻巧佩戴",
+        "product_price": "199",
+        "product_org_price": "199",
+        "show_price_qi": false,
+        "action": {
+            "type": "product",
+            "path": "//item.mi.com/9732.html",
+            "log_code": "31pchomepagelist_eight_product_tab000001#t=product&act=product&page=homepage&pid=9732&page_id=10530&bid=3480948.4"
+        }
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/57433a4b991b2a2ddc889f2d8d434655.jpg",
+        "product_id": 9836,
+        "product_name": "小米巨能写中性笔10支装",
+        "product_brief": "一支顶4支，超长顺滑书写",
+        "product_price": "9.99",
+        "product_org_price": "9.99",
+        "show_price_qi": false,
+        "action": {
+            "type": "product",
+            "path": "//item.mi.com/9836.html",
+            "log_code": "31pchomepagelist_eight_product_tab001001#t=product&act=product&page=homepage&pid=9836&page_id=10530&bid=3480948.5"
+        }
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c149537ebb0c2cdb977ddd93200074f4.jpg",
+        "product_id": 10007,
+        "product_name": "小米旅行箱 20英寸 布朗熊限量版",
+        "product_brief": "“国际巨星” LINE FRIENDS布朗熊",
+        "product_price": "299",
+        "product_org_price": "399",
+        "show_price_qi": false,
+        "action": {
+            "type": "product",
+            "path": "//item.mi.com/10007.html",
+            "log_code": "31pchomepagelist_eight_product_tab002001#t=product&act=product&page=homepage&pid=10007&page_id=10530&bid=3480948.6"
+        }
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/03d94ee6059481a6adcb6c4c5c572fb4.jpg",
+        "product_id": 10480,
+        "product_name": "米家迷你保温杯",
+        "product_brief": "可以随身携带的温度",
+        "product_price": "49",
+        "product_org_price": "49",
+        "show_price_qi": false,
+        "action": {
+            "type": "product",
+            "path": "//item.mi.com/10480.html",
+            "log_code": "31pchomepagelist_eight_product_tab003001#t=product&act=product&page=homepage&pid=10480&page_id=10530&bid=3480948.7"
+        }
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/41e6890f9d6b7fdb4275c986dc3644e8.jpg",
+        "product_id": 9723,
+        "product_name": "米家驱蚊器基础版 3个装",
+        "product_brief": "3个装 长效驱蚊",
+        "product_price": "129",
+        "product_org_price": "129",
+        "show_price_qi": false,
+        "action": {
+            "type": "product",
+            "path": "//item.mi.com/9723.html",
+            "log_code": "31pchomepagelist_eight_product_tab004001#t=product&act=product&page=homepage&pid=9723&page_id=10530&bid=3480948.8"
+        }
+    },
+    {
+        "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/38748fefeef78183ac01356a23dbc5c5.jpg",
+        "product_id": 9938,
+        "product_name": "3卷装抽绳式垃圾袋",
+        "product_brief": "让清洁更简单",
+        "product_price": "9.9",
+        "product_org_price": "14.9",
+        "show_price_qi": false,
+        "action": {
+            "type": "product",
+            "path": "//item.mi.com/9938.html",
+            "log_code": "31pchomepagelist_eight_product_tab005001#t=product&act=product&page=homepage&pid=9938&page_id=10530&bid=3480948.9"
+        }
+    },
+    {
+        "img_url": "http://i8.mifile.cn/v1/a1/413f5e2f-53e7-0879-119c-8b4466feea53.jpg",
+        "product_id": 6443,
+        "product_name": "贝医生巴氏牙刷 四色装",
+        "product_brief": "进口刷毛，好品质",
+        "product_price": "39.9",
+        "product_org_price": "39.9",
+        "show_price_qi": false,
+        "action": {
+            "type": "url",
+            "path": "https://www.mi.com/toothbrush-set/",
+            "log_code": "31pchomepagelist_eight_product_tab006001#t=product&act=webview&page=homepage&page_id=10530&bid=3480948.10&pid=6443"
+        }
+    },
+    {
+        "img_url": "http://i8.mifile.cn/v1/a1/eaa7c8e5-2a8c-0d2c-6de7-a6db2068b192.jpg",
+        "product_id": 6512,
+        "product_name": "8H 乳胶弹簧静音床垫 M3",
+        "product_brief": "健康每一处  床垫会呼吸",
+        "product_price": "1599",
+        "product_org_price": "1599",
+        "show_price_qi": true,
+        "action": {
+            "type": "product",
+            "path": "//item.mi.com/6512.html",
+            "log_code": "31pchomepagelist_eight_product_tab007001#t=product&act=product&page=homepage&pid=6512&page_id=10530&bid=3480948.11"
+        }
+    }
+]}

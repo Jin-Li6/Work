@@ -1,0 +1,1110 @@
+{
+    "code": 0,
+    "data": {
+        "classes": [
+            {
+                "class_id": 0,
+                "class_name": "全部",
+                "class_parameters": null,
+                "checked": true,
+                "class_sort": 0,
+                "class_icon": "",
+                "class_keywords": null,
+                "class_is_pk": false
+            },
+            {
+                "class_id": 37,
+                "class_name": "手机配件",
+                "class_parameters": [],
+                "checked": false,
+                "class_sort": 199,
+                "class_icon": "https://i8.mifile.cn/b2c-mimall-media/5fdef58bcb3dec6cf21f69454b617021.png",
+                "class_keywords": [],
+                "class_is_pk": false
+            },
+            {
+                "class_id": 35,
+                "class_name": "手机保护壳",
+                "class_parameters": [],
+                "checked": false,
+                "class_sort": 197,
+                "class_icon": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/607b7067ead96755f65df814b4e8615c.png",
+                "class_keywords": [],
+                "class_is_pk": false
+            }
+        ],
+        "filter_tags": [
+            {
+                "name": "促销",
+                "value": 1,
+                "checked": false
+            },
+            {
+                "name": "分期",
+                "value": 2,
+                "checked": false
+            },
+            {
+                "name": "仅看有货",
+                "value": 4,
+                "checked": false
+            }
+        ],
+        "total": 24,
+        "pc_list": [
+            {
+                "class_sort": 197,
+                "product_id": "11602",
+                "commodity_list": [
+                    {
+                        "desc": "\u003cfont color='#ff4a00'\u003e「敬请期待」\u003c/font\u003e高灵敏感应智能唤醒，合盖休眠/半透智能视窗，日常信息一目了然/优质环保PU，细腻皮纹，温润手感/ 孔位精准，贴合机身，精巧耐用/全方位呵护爱机，有效防止屏幕划伤。",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581767842.50786035.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581767842.50786035.jpg",
+                        "is_multi_price": false,
+                        "market_price": "69",
+                        "name": "小米 10 Pro 镜面视窗保护套 星空黑",
+                        "price": "69",
+                        "product_id": 1200700014,
+                        "commodity_id": 1200700014,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=11602\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 197,
+                "product_id": "11601",
+                "commodity_list": [
+                    {
+                        "desc": "\u003cfont color='#ff4a00'\u003e「敬请期待」\u003c/font\u003e高灵敏感应智能唤醒，合盖休眠/半透智能视窗，日常信息一目了然/优质环保PU，细腻皮纹，温润手感/ 孔位精准，贴合机身，精巧耐用/全方位呵护爱机，有效防止屏幕划伤。",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581762648.77586040.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581762648.77586040.jpg",
+                        "is_multi_price": false,
+                        "market_price": "69",
+                        "name": "小米 10  镜面视窗保护套 热力橙",
+                        "price": "69",
+                        "product_id": 1200700013,
+                        "commodity_id": 1200700013,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=11601\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    },
+                    {
+                        "desc": "\u003cfont color='#ff4a00'\u003e「敬请期待」\u003c/font\u003e高灵敏感应智能唤醒，合盖休眠/半透智能视窗，日常信息一目了然/优质环保PU，细腻皮纹，温润手感/ 孔位精准，贴合机身，精巧耐用/全方位呵护爱机，有效防止屏幕划伤。",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581763326.28629116.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581763326.28629116.jpg",
+                        "is_multi_price": false,
+                        "market_price": "69",
+                        "name": "小米 10  镜面视窗保护套 星空黑",
+                        "price": "69",
+                        "product_id": 1200700012,
+                        "commodity_id": 1200700012,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=11601\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 197,
+                "product_id": "11336",
+                "commodity_list": [
+                    {
+                        "desc": "优选环保PC材质，强韧张力，全面贴合，无感更舒适",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1574669838.23882683.png",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1574669838.23882683.png",
+                        "is_multi_price": false,
+                        "market_price": "69",
+                        "name": "小米CC9 Pro/尊享版 撞色飘带保护壳 蓝色",
+                        "price": "69",
+                        "product_id": 1194800001,
+                        "commodity_id": 1194800001,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=11336\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    },
+                    {
+                        "desc": "优选环保PC材质，强韧张力，全面贴合，无感更舒适",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1574669835.28157858.png",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1574669835.28157858.png",
+                        "is_multi_price": false,
+                        "market_price": "69",
+                        "name": "小米CC9 Pro/尊享版 撞色飘带保护壳 黑色",
+                        "price": "69",
+                        "product_id": 1194800002,
+                        "commodity_id": 1194800002,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=11336\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 197,
+                "product_id": "11311",
+                "commodity_list": [
+                    {
+                        "desc": "精准开孔，强韧张力，易于清洁 / 全面贴合机身，防止手机刮蹭 / 时尚斜纹设计",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1574494121.80674980.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1574494121.80674980.jpg",
+                        "is_multi_price": false,
+                        "market_price": "39",
+                        "name": "小米CC9 Pro/尊享版 简约条纹保护壳 黑色",
+                        "price": "39",
+                        "product_id": 1194700002,
+                        "commodity_id": 1194700002,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=11311\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    },
+                    {
+                        "desc": "精准开孔，强韧张力，易于清洁 / 全面贴合机身，防止手机刮蹭 / 时尚斜纹设计",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1574494130.58193539.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1574494130.58193539.jpg",
+                        "is_multi_price": false,
+                        "market_price": "39",
+                        "name": "小米CC9 Pro/尊享版 简约条纹保护壳 柠檬黄",
+                        "price": "39",
+                        "product_id": 1194700003,
+                        "commodity_id": 1194700003,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=11311\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 197,
+                "product_id": "11001",
+                "commodity_list": [
+                    {
+                        "desc": "优质原材料，经久耐用 / 全包贴合设计，开孔精准，无毛边 / 时尚简约设计，色泽晶莹",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1571103851.3441730.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1571103851.3441730.jpg",
+                        "is_multi_price": false,
+                        "market_price": "19",
+                        "name": "Redmi 8A  高透软胶保护套 半透黑",
+                        "price": "19",
+                        "product_id": 1194100061,
+                        "commodity_id": 1194100061,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=11001\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    },
+                    {
+                        "desc": "优质原材料，经久耐用 / 全包贴合设计，开孔精准，无毛边 / 时尚简约设计，色泽晶莹",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1571103852.49955698.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1571103852.49955698.jpg",
+                        "is_multi_price": false,
+                        "market_price": "19",
+                        "name": "Redmi 8A  高透软胶保护套 透明",
+                        "price": "19",
+                        "product_id": 1194100062,
+                        "commodity_id": 1194100062,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=11001\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 197,
+                "product_id": "10815",
+                "commodity_list": [
+                    {
+                        "desc": "简约时尚，彰显魅力 / 孔位精准，全面保护 / 优质环保材质，触感细腻",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1568786993.23323984.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1568786993.23323984.jpg",
+                        "is_multi_price": false,
+                        "market_price": "39",
+                        "name": "Redmi Note 8 Pro 极简摩纹手机壳 黑色",
+                        "price": "39",
+                        "product_id": 1193800007,
+                        "commodity_id": 1193800007,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=10815\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 197,
+                "product_id": "10534",
+                "commodity_list": [
+                    {
+                        "desc": "璀璨夺目，近万颗奥地利水晶元素 / 不同角度和光线下呈现多彩耀目的光泽 / 手感柔和舒适 / 精美礼盒包装设计",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1565882564.86579749.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1565882564.86579749.jpg",
+                        "is_multi_price": false,
+                        "market_price": "499",
+                        "name": "CC星芒钻幕壳 小米CC 9 满天星",
+                        "price": "499",
+                        "product_id": 1193300024,
+                        "commodity_id": 1193300024,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "activity_label": [
+                                {
+                                    "type": "interestfree",
+                                    "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/05c84c8d8ffebf7fd17c8838b5d81ee6.png",
+                                    "img_url_webp": "http://i8.mifile.cn/v1/a1/767891fb-648d-4f6c-7425-3b63728a32de.webp",
+                                    "w": 84,
+                                    "h": 36
+                                }
+                            ],
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=10534\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "activity_label": [
+                        {
+                            "type": "interestfree",
+                            "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/05c84c8d8ffebf7fd17c8838b5d81ee6.png",
+                            "img_url_webp": "http://i8.mifile.cn/v1/a1/767891fb-648d-4f6c-7425-3b63728a32de.webp",
+                            "w": 84,
+                            "h": 36
+                        }
+                    ],
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 197,
+                "product_id": "10170",
+                "commodity_list": [
+                    {
+                        "desc": "全透明壳体，彰显机身色彩 / 时尚简约，潮流时尚更有范 / 精准开孔，贴合机身，防止手机刮蹭",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1562073233.35113398.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1562073233.35113398.jpg",
+                        "is_multi_price": false,
+                        "market_price": "49",
+                        "name": "小米 CC9 高透果冻保护壳 透明",
+                        "price": "49",
+                        "product_id": 1192600033,
+                        "commodity_id": 1192600033,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=10170\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 197,
+                "product_id": "10168",
+                "commodity_list": [
+                    {
+                        "desc": "青春荧光色，出手即是C位 / 轻薄轻巧，为青春减“负” / 简约而不简单，设计感十足 / 精准开孔，全面贴合机身",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1562067017.28075121.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1562067017.28075121.jpg",
+                        "is_multi_price": false,
+                        "market_price": "49",
+                        "name": "小米CC9 荧光色高透果冻保护壳 荧光绿",
+                        "price": "49",
+                        "product_id": 1192600027,
+                        "commodity_id": 1192600027,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=10168\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    },
+                    {
+                        "desc": "青春荧光色，出手即是C位 / 轻薄轻巧，为青春减“负” / 简约而不简单，设计感十足 / 精准开孔，全面贴合机身",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1562067024.19693525.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1562067024.19693525.jpg",
+                        "is_multi_price": false,
+                        "market_price": "49",
+                        "name": "小米CC9 荧光色高透果冻保护壳 荧光粉",
+                        "price": "49",
+                        "product_id": 1192600028,
+                        "commodity_id": 1192600028,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=10168\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    },
+                    {
+                        "desc": "青春荧光色，出手即是C位 / 轻薄轻巧，为青春减“负” / 简约而不简单，设计感十足 / 精准开孔，全面贴合机身",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1562067029.54018331.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1562067029.54018331.jpg",
+                        "is_multi_price": false,
+                        "market_price": "49",
+                        "name": "小米CC9 荧光色高透果冻保护壳 荧光橙",
+                        "price": "49",
+                        "product_id": 1192600029,
+                        "commodity_id": 1192600029,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=10168\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 197,
+                "product_id": "10177",
+                "commodity_list": [
+                    {
+                        "desc": "时尚，仙气满满 / 材质考究，金属手链 / 奥地利水晶元素手工镶嵌",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1562066152.88486119.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1562066152.88486119.jpg",
+                        "is_multi_price": false,
+                        "market_price": "199",
+                        "name": "小仙女心愿手链保护壳 透明",
+                        "price": "199",
+                        "product_id": 1192600040,
+                        "commodity_id": 1192600040,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=10177\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 197,
+                "product_id": "10173",
+                "commodity_list": [
+                    {
+                        "desc": "轻薄无负担，每次出手都随性自如 / 全透明壳体，彰显机身色彩  / 简约而不简单，潮流时尚更有范 / 精准开孔，贴心保护爱机",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1562075231.50084071.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1562075231.50084071.jpg",
+                        "is_multi_price": false,
+                        "market_price": "49",
+                        "name": "小米CC9e 高透果冻保护壳 透明",
+                        "price": "49",
+                        "product_id": 1192600036,
+                        "commodity_id": 1192600036,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=10173\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 197,
+                "product_id": "9892",
+                "commodity_list": [
+                    {
+                        "desc": "强人张力 / 轻薄温润 / 简约大气 / 全面贴合",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1559025111.53639492.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1559025111.53639492.jpg",
+                        "is_multi_price": false,
+                        "market_price": "19",
+                        "name": "Redmi 7A 高透软胶保护套 透黑",
+                        "price": "19",
+                        "product_id": 1192100057,
+                        "commodity_id": 1192100057,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=9892\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    },
+                    {
+                        "desc": "强人张力 / 轻薄温润 / 简约大气 / 全面贴合",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1559025104.779416.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1559025104.779416.jpg",
+                        "is_multi_price": false,
+                        "market_price": "19",
+                        "name": "Redmi 7A 高透软胶保护套 透明",
+                        "price": "19",
+                        "product_id": 1192100056,
+                        "commodity_id": 1192100056,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=9892\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 197,
+                "product_id": "9720",
+                "commodity_list": [
+                    {
+                        "desc": "彰显独特个性 / 轻薄无负担 / 优选PC材料 / 贴合机身 / 潮流五色",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1557028951.29547773.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1557028951.29547773.jpg",
+                        "is_multi_price": false,
+                        "market_price": "49",
+                        "name": "小米9 ARE U OK保护壳 蓝紫色",
+                        "price": "39",
+                        "product_id": 1191700030,
+                        "commodity_id": 1191700030,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=9720\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    },
+                    {
+                        "desc": "彰显独特个性 / 轻薄无负担 / 优选PC材料 / 贴合机身 / 潮流五色",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1557028990.99387301.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1557028990.99387301.jpg",
+                        "is_multi_price": false,
+                        "market_price": "49",
+                        "name": "小米9 ARE U OK保护壳 薄荷绿",
+                        "price": "39",
+                        "product_id": 1191700031,
+                        "commodity_id": 1191700031,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=9720\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 197,
+                "product_id": "9355",
+                "commodity_list": [
+                    {
+                        "desc": "个性时尚 / 细节出众 / 纤薄轻巧 / 多彩时尚",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1550474775.86353113.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1550474775.86353113.jpg",
+                        "is_multi_price": false,
+                        "market_price": "49",
+                        "name": "小米9 SE 街头风保护壳 黑色",
+                        "price": "49",
+                        "product_id": 1190800019,
+                        "commodity_id": 1190800019,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=9355\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    },
+                    {
+                        "desc": "个性时尚 / 细节出众 / 纤薄轻巧 / 多彩时尚",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1550474768.50451865.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1550474768.50451865.jpg",
+                        "is_multi_price": false,
+                        "market_price": "49",
+                        "name": "小米9 SE 街头风保护壳 紫色",
+                        "price": "49",
+                        "product_id": 1190800018,
+                        "commodity_id": 1190800018,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=9355\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    },
+                    {
+                        "desc": "个性时尚 / 细节出众 / 纤薄轻巧 / 多彩时尚",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1550474771.0794581.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1550474771.0794581.jpg",
+                        "is_multi_price": false,
+                        "market_price": "49",
+                        "name": "小米9 SE 街头风保护壳 红色",
+                        "price": "49",
+                        "product_id": 1190800020,
+                        "commodity_id": 1190800020,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=9355\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 197,
+                "product_id": "9133",
+                "commodity_list": [
+                    {
+                        "desc": "用优质原材料 / 强韧张力 / 经久耐用",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1544509997.92953277.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1544509997.92953277.jpg",
+                        "is_multi_price": false,
+                        "market_price": "69",
+                        "name": "小米MIX 3 獬豸神兽保护壳 蓝色",
+                        "price": "32.9",
+                        "product_id": 1185000003,
+                        "commodity_id": 1185000003,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=9133\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 197,
+                "product_id": "11397",
+                "commodity_list": [
+                    {
+                        "desc": "独特机甲设计 / 精准开孔，强韧张力 / 全面贴合机身，防止手机刮蹭",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1576222070.03726946.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1576222070.03726946.jpg",
+                        "is_multi_price": false,
+                        "market_price": "49",
+                        "name": "Redmi K30系列 大魔王机甲特攻壳 黑色",
+                        "price": "49",
+                        "product_id": 1195000006,
+                        "commodity_id": 1195000006,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=11397\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 197,
+                "product_id": "11422",
+                "commodity_list": [
+                    {
+                        "desc": "环保PC材质，强韧有张力 / 质感纤薄，握感舒适 / 拆卸方便，经久耐用",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1576487013.92629192.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1576487013.92629192.jpg",
+                        "is_multi_price": false,
+                        "market_price": "39",
+                        "name": "Redmi K30系列 明眸保护壳 星空黑",
+                        "price": "39",
+                        "product_id": 1195100005,
+                        "commodity_id": 1195100005,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=11422\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    },
+                    {
+                        "desc": "环保PC材质，强韧有张力 / 质感纤薄，握感舒适 / 拆卸方便，经久耐用",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1576487018.57433139.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1576487018.57433139.jpg",
+                        "is_multi_price": false,
+                        "market_price": "39",
+                        "name": "Redmi K30系列 明眸保护壳 星灿紫",
+                        "price": "39",
+                        "product_id": 1195100006,
+                        "commodity_id": 1195100006,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=11422\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 199,
+                "product_id": "9141",
+                "commodity_list": [
+                    {
+                        "desc": "黑鲨双翼手柄单滑轨保护壳套装-小米8定制版",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1544600277.71456712.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1544600277.71456712.jpg",
+                        "is_multi_price": false,
+                        "market_price": "228",
+                        "name": "黑鲨双翼手柄单滑轨保护壳套装-小米8定制版",
+                        "price": "228",
+                        "product_id": 1185000010,
+                        "commodity_id": 1185000010,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=9141\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 199,
+                "product_id": "9661",
+                "commodity_list": [
+                    {
+                        "desc": "米哈游官方正版授权保护壳",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1556091463.12721406.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1556091463.12721406.jpg",
+                        "is_multi_price": false,
+                        "market_price": "99",
+                        "name": "黑鲨2 双滑轨保护壳 崩坏3定制版 黑色",
+                        "price": "99",
+                        "product_id": 1191600023,
+                        "commodity_id": 1191600023,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=9661\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 199,
+                "product_id": "9660",
+                "commodity_list": [
+                    {
+                        "desc": "跑车引擎设计 / 凯夫拉碳纤维纹理 / 全方位保护",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1556440620.5317961.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1556440620.5317961.jpg",
+                        "is_multi_price": false,
+                        "market_price": "69",
+                        "name": "黑鲨游戏手机2 双滑轨保护壳 黑色",
+                        "price": "69",
+                        "product_id": 1191600022,
+                        "commodity_id": 1191600022,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=9660\u0026keyword=保护壳\u0026search_word=%!(EXTRA string=保护壳)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            }
+        ],
+        "session": ""
+    },
+    "error": "成功"
+}

@@ -1,0 +1,659 @@
+{
+    "code": 0,
+    "data": {
+        "classes": [
+            {
+                "class_id": 0,
+                "class_name": "全部",
+                "class_parameters": null,
+                "checked": true,
+                "class_sort": 0,
+                "class_icon": "",
+                "class_keywords": null,
+                "class_is_pk": false
+            },
+            {
+                "class_id": 17,
+                "class_name": "汽车用品",
+                "class_parameters": [],
+                "checked": false,
+                "class_sort": 388,
+                "class_icon": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8c46ff035cbe8000d8333ba0f982b1dd.png",
+                "class_keywords": [],
+                "class_is_pk": false
+            },
+            {
+                "class_id": 50,
+                "class_name": "日用百货",
+                "class_parameters": [],
+                "checked": false,
+                "class_sort": 298,
+                "class_icon": "https://i8.mifile.cn/b2c-mimall-media/f0bd09c42c7270a30e0e65d3a43559d1.png",
+                "class_keywords": [],
+                "class_is_pk": false
+            },
+            {
+                "class_id": 54,
+                "class_name": "个护",
+                "class_parameters": [],
+                "checked": false,
+                "class_sort": 294,
+                "class_icon": "https://i8.mifile.cn/b2c-mimall-media/4cabd90743820c808837c42b40870eaa.png",
+                "class_keywords": [],
+                "class_is_pk": false
+            }
+        ],
+        "filter_tags": [
+            {
+                "name": "促销",
+                "value": 1,
+                "checked": false
+            },
+            {
+                "name": "分期",
+                "value": 2,
+                "checked": false
+            },
+            {
+                "name": "仅看有货",
+                "value": 4,
+                "checked": false
+            }
+        ],
+        "total": 10,
+        "pc_list": [
+            {
+                "class_sort": 388,
+                "product_id": "11510",
+                "commodity_list": [
+                    {
+                        "desc": "荧光橙色字体 / 号码隐藏 / 简洁外观",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1578297082.37282528.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1578297082.37282528.jpg",
+                        "is_multi_price": false,
+                        "market_price": "16.9",
+                        "name": "MIJOY 临时停车牌 银灰色",
+                        "price": "16.9",
+                        "product_id": 1200200001,
+                        "commodity_id": 1200200001,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=11510\u0026keyword=mijoy\u0026search_word=%!(EXTRA string=MIJOY)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 298,
+                "product_id": "9938",
+                "commodity_list": [
+                    {
+                        "desc": "\u003cfont color='#ff4a00'\u003e「满29元包邮」\u003c/font\u003e20只/卷，3卷/袋，双层抽绳，加厚袋身，承重力强，环保干净。",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1559702116.0468064.png",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1559702116.0468064.png",
+                        "is_multi_price": false,
+                        "market_price": "14.9",
+                        "name": "MIJOY 抽绳式垃圾袋 白色",
+                        "price": "9.9",
+                        "product_id": 1192200040,
+                        "commodity_id": 1192200040,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "activity_label": [
+                                {
+                                    "type": "postFree",
+                                    "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4f78c46942264753707c27ab69f7ccab.png",
+                                    "img_url_webp": "http://i8.mifile.cn/v1/a1/1b25be20-bc76-a8d6-5fcf-8e5081ab7a79.webp",
+                                    "w": 84,
+                                    "h": 36
+                                }
+                            ],
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=9938\u0026keyword=mijoy\u0026search_word=%!(EXTRA string=MIJOY)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "activity_label": [
+                        {
+                            "type": "postFree",
+                            "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4f78c46942264753707c27ab69f7ccab.png",
+                            "img_url_webp": "http://i8.mifile.cn/v1/a1/1b25be20-bc76-a8d6-5fcf-8e5081ab7a79.webp",
+                            "w": 84,
+                            "h": 36
+                        }
+                    ],
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 298,
+                "product_id": "11390",
+                "commodity_list": [
+                    {
+                        "desc": "套取简单 / 细密网眼 / 防堵过滤 / 抽取方便",
+                        "image": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/13847bb22a1cde65b9a6c674758fea7f.jpg",
+                        "icon": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/13847bb22a1cde65b9a6c674758fea7f.jpg",
+                        "is_multi_price": false,
+                        "market_price": "9.9",
+                        "name": "MIJOY水槽过滤网 白色",
+                        "price": "9.9",
+                        "product_id": 1194900030,
+                        "commodity_id": 1194900030,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "activity_label": [
+                                {
+                                    "type": "postFree",
+                                    "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4f78c46942264753707c27ab69f7ccab.png",
+                                    "img_url_webp": "http://i8.mifile.cn/v1/a1/1b25be20-bc76-a8d6-5fcf-8e5081ab7a79.webp",
+                                    "w": 84,
+                                    "h": 36
+                                }
+                            ],
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=11390\u0026keyword=mijoy\u0026search_word=%!(EXTRA string=MIJOY)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "activity_label": [
+                        {
+                            "type": "postFree",
+                            "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4f78c46942264753707c27ab69f7ccab.png",
+                            "img_url_webp": "http://i8.mifile.cn/v1/a1/1b25be20-bc76-a8d6-5fcf-8e5081ab7a79.webp",
+                            "w": 84,
+                            "h": 36
+                        }
+                    ],
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 298,
+                "product_id": "10970",
+                "commodity_list": [
+                    {
+                        "desc": "3层/抽，100抽/包，24包/箱，精选原生竹浆，健康环保 / 三层加厚柔韧，湿水不易破 / 先进加工处理，本色无添加 / 纸张不易掉屑，使用更洁净 / 吸水性佳，可干湿两用 / 拉链式开口，轻松第一抽",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1571038766.41824452.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1571038766.41824452.jpg",
+                        "is_multi_price": false,
+                        "market_price": "32.9",
+                        "name": "MIJOY 抽纸青春版 24包/箱",
+                        "price": "27.9",
+                        "product_id": 1194100032,
+                        "commodity_id": 1194100032,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "activity_label": [
+                                {
+                                    "type": "seckill",
+                                    "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e2780c6688e79247128e5cff50a921ca.png",
+                                    "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e2780c6688e79247128e5cff50a921ca.png",
+                                    "w": 84,
+                                    "h": 36
+                                }
+                            ],
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=10970\u0026keyword=mijoy\u0026search_word=%!(EXTRA string=MIJOY)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "activity_label": [
+                        {
+                            "type": "seckill",
+                            "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e2780c6688e79247128e5cff50a921ca.png",
+                            "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e2780c6688e79247128e5cff50a921ca.png",
+                            "w": 84,
+                            "h": 36
+                        }
+                    ],
+                    "icon": {
+                        "id": 2,
+                        "url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/70d17c5b28dfc21d5e32bf12be0e7759.png?w=120\u0026h=48",
+                        "webp_url": "http://i8.mifile.cn/v1/a1/5367b074-28c8-28c4-0c23-6944f1055a6e.webp?w=120\u0026h=48",
+                        "color": "#F2C751",
+                        "w": 0,
+                        "h": 0,
+                        "name": "包邮"
+                    }
+                }
+            },
+            {
+                "class_sort": 298,
+                "product_id": "10968",
+                "commodity_list": [
+                    {
+                        "desc": "\u003cfont color='#ff4a00'\u003e「3提包邮」\u003c/font\u003e3层/抽，130抽/包，3包/提，精选原生木浆，健康环保 /进口造纸设备，造就柔软好纸 / 湿水不易破 / 拉链式开口，轻松第一抽",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1572245948.06092213.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1572245948.06092213.jpg",
+                        "is_multi_price": false,
+                        "market_price": "9.9",
+                        "name": "MIJOY 抽纸 标准版 3包/提",
+                        "price": "9.9",
+                        "product_id": 1194100031,
+                        "commodity_id": 1194100031,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "activity_label": [
+                                {
+                                    "type": "postFree",
+                                    "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4f78c46942264753707c27ab69f7ccab.png",
+                                    "img_url_webp": "http://i8.mifile.cn/v1/a1/1b25be20-bc76-a8d6-5fcf-8e5081ab7a79.webp",
+                                    "w": 84,
+                                    "h": 36
+                                }
+                            ],
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=10968\u0026keyword=mijoy\u0026search_word=%!(EXTRA string=MIJOY)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "activity_label": [
+                        {
+                            "type": "postFree",
+                            "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4f78c46942264753707c27ab69f7ccab.png",
+                            "img_url_webp": "http://i8.mifile.cn/v1/a1/1b25be20-bc76-a8d6-5fcf-8e5081ab7a79.webp",
+                            "w": 84,
+                            "h": 36
+                        }
+                    ],
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 298,
+                "product_id": "10254",
+                "commodity_list": [
+                    {
+                        "desc": "20片/包*5包 / 母婴适用 / RO纯水 / 柔软细腻 / 温和无刺激",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1562555631.93357918.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1562555631.93357918.jpg",
+                        "is_multi_price": false,
+                        "market_price": "9.99",
+                        "name": "MIJOY 清洁湿巾 白色",
+                        "price": "9.99",
+                        "product_id": 1192700068,
+                        "commodity_id": 1192700068,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "activity_label": [
+                                {
+                                    "type": "postFree",
+                                    "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4f78c46942264753707c27ab69f7ccab.png",
+                                    "img_url_webp": "http://i8.mifile.cn/v1/a1/1b25be20-bc76-a8d6-5fcf-8e5081ab7a79.webp",
+                                    "w": 84,
+                                    "h": 36
+                                }
+                            ],
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=10254\u0026keyword=mijoy\u0026search_word=%!(EXTRA string=MIJOY)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "activity_label": [
+                        {
+                            "type": "postFree",
+                            "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4f78c46942264753707c27ab69f7ccab.png",
+                            "img_url_webp": "http://i8.mifile.cn/v1/a1/1b25be20-bc76-a8d6-5fcf-8e5081ab7a79.webp",
+                            "w": 84,
+                            "h": 36
+                        }
+                    ],
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 294,
+                "product_id": "10963",
+                "commodity_list": [
+                    {
+                        "desc": "自发热控温技术，快速发热 / 30分钟长效热敷，舒适控制温度范围 / 瞳孔无热专利，呵护眼球 / 300mg蒸汽量释放，水润双眼 / 轻薄透气，亲肤舒适 / 高弹力耳挂，轻松佩戴不紧绷",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1571034798.13874961.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1571034798.13874961.jpg",
+                        "is_multi_price": false,
+                        "market_price": "9.9",
+                        "name": "MIJOY 蒸汽眼罩 5片装",
+                        "price": "9.9",
+                        "product_id": 1194100026,
+                        "commodity_id": 1194100026,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "activity_label": [
+                                {
+                                    "type": "postFree",
+                                    "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4f78c46942264753707c27ab69f7ccab.png",
+                                    "img_url_webp": "http://i8.mifile.cn/v1/a1/1b25be20-bc76-a8d6-5fcf-8e5081ab7a79.webp",
+                                    "w": 84,
+                                    "h": 36
+                                }
+                            ],
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=10963\u0026keyword=mijoy\u0026search_word=%!(EXTRA string=MIJOY)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "activity_label": [
+                        {
+                            "type": "postFree",
+                            "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4f78c46942264753707c27ab69f7ccab.png",
+                            "img_url_webp": "http://i8.mifile.cn/v1/a1/1b25be20-bc76-a8d6-5fcf-8e5081ab7a79.webp",
+                            "w": 84,
+                            "h": 36
+                        }
+                    ],
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 294,
+                "product_id": "11316",
+                "commodity_list": [
+                    {
+                        "desc": "内含一条毛巾一条浴巾，100%全棉。洁净卫生，采用水刺工艺，不掉毛无线头，全程自动化生产无人工接触，高温杀菌。方便携带，折叠后仅有笔记本大小，重量轻，密封袋形式便于携带。",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1574165871.44936239.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1574165871.44936239.jpg",
+                        "is_multi_price": false,
+                        "market_price": "9.9",
+                        "name": "MIJOY一次性套装（浴巾+毛巾） 白色",
+                        "price": "9.9",
+                        "product_id": 1194700008,
+                        "commodity_id": 1194700008,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "activity_label": [
+                                {
+                                    "type": "postFree",
+                                    "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4f78c46942264753707c27ab69f7ccab.png",
+                                    "img_url_webp": "http://i8.mifile.cn/v1/a1/1b25be20-bc76-a8d6-5fcf-8e5081ab7a79.webp",
+                                    "w": 84,
+                                    "h": 36
+                                }
+                            ],
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=11316\u0026keyword=mijoy\u0026search_word=%!(EXTRA string=MIJOY)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "activity_label": [
+                        {
+                            "type": "postFree",
+                            "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4f78c46942264753707c27ab69f7ccab.png",
+                            "img_url_webp": "http://i8.mifile.cn/v1/a1/1b25be20-bc76-a8d6-5fcf-8e5081ab7a79.webp",
+                            "w": 84,
+                            "h": 36
+                        }
+                    ],
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 294,
+                "product_id": "10760",
+                "commodity_list": [
+                    {
+                        "desc": "通用机型尺寸，适配大部分机型 / 免打孔，安装方便 / 多层次置物，取用方便 / 绕线盘设计，轻松收纳电线",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1568020244.44915598.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1568020244.44915598.jpg",
+                        "is_multi_price": false,
+                        "market_price": "29.9",
+                        "name": "MIJOY 吹风机架 灰白色",
+                        "price": "29.9",
+                        "product_id": 1193700009,
+                        "commodity_id": 1193700009,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=10760\u0026keyword=mijoy\u0026search_word=%!(EXTRA string=MIJOY)"
+                    },
+                    {
+                        "desc": "通用机型尺寸，适配大部分机型 / 免打孔，安装方便 / 多层次置物，取用方便 / 绕线盘设计，轻松收纳电线",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1568020278.97973794.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1568020278.97973794.jpg",
+                        "is_multi_price": false,
+                        "market_price": "29.9",
+                        "name": "MIJOY 吹风机架 深蓝色",
+                        "price": "29.9",
+                        "product_id": 1193700010,
+                        "commodity_id": 1193700010,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=10760\u0026keyword=mijoy\u0026search_word=%!(EXTRA string=MIJOY)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            },
+            {
+                "class_sort": 294,
+                "product_id": "9616",
+                "commodity_list": [
+                    {
+                        "desc": "全身经络推拿 / 适用不同部位 / 小巧轻便",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1554703325.56131440.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1554703325.56131440.jpg",
+                        "is_multi_price": false,
+                        "market_price": "9.9",
+                        "name": "MIJOY 小魔爪按摩器 海洋蓝",
+                        "price": "9.9",
+                        "product_id": 1191400023,
+                        "commodity_id": 1191400023,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=9616\u0026keyword=mijoy\u0026search_word=%!(EXTRA string=MIJOY)"
+                    },
+                    {
+                        "desc": "全身经络推拿 / 适用不同部位 / 小巧轻便",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1554703314.81988402.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1554703314.81988402.jpg",
+                        "is_multi_price": false,
+                        "market_price": "9.9",
+                        "name": "MIJOY 小魔爪按摩器 珊瑚粉",
+                        "price": "9.9",
+                        "product_id": 1191400020,
+                        "commodity_id": 1191400020,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=9616\u0026keyword=mijoy\u0026search_word=%!(EXTRA string=MIJOY)"
+                    },
+                    {
+                        "desc": "全身经络推拿 / 适用不同部位 / 小巧轻便",
+                        "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1554703322.64991595.jpg",
+                        "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1554703322.64991595.jpg",
+                        "is_multi_price": false,
+                        "market_price": "9.9",
+                        "name": "MIJOY 小魔爪按摩器 太空灰",
+                        "price": "9.9",
+                        "product_id": 1191400022,
+                        "commodity_id": 1191400022,
+                        "release_date": 0,
+                        "sale_label": {
+                            "holiday_label": {
+                                "w": 0,
+                                "h": 0
+                            },
+                            "icon": {
+                                "w": 0,
+                                "h": 0
+                            }
+                        },
+                        "log_code": "pc_search_0_0#seid=21:0:0:0:0:0:0:0:0:0\u0026page=pc_search\u0026pid=9616\u0026keyword=mijoy\u0026search_word=%!(EXTRA string=MIJOY)"
+                    }
+                ],
+                "sale_label": {
+                    "holiday_label": {
+                        "w": 0,
+                        "h": 0
+                    },
+                    "icon": {
+                        "w": 0,
+                        "h": 0
+                    }
+                }
+            }
+        ],
+        "session": ""
+    },
+    "error": "成功"
+}

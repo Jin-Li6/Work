@@ -1,0 +1,136 @@
+.pagi {
+  width: 1200px;
+  height: 80px;
+  margin: 0 auto;
+  border: 1px solid #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  width: 1200px;
+  margin: 20px auto;
+}
+
+.box > ul {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box > ul > li {
+  width: 22%;
+  margin: 0 0 20px 20px;
+  border: 1px solid #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  flex-direction: column;
+}
+
+.box > ul > li > img {
+  width: 153px;
+  height: 206px;
+  display: block;
+}
+
+.box > ul > li > p {
+  font-size: 30px;
+}
+
+.sort {
+  width: 100px;
+  height: 40px;
+  font-size: 30px;
+  position: fixed;
+  top: 30px;
+  left: 30px;
+}
+
+/*---------------------*/
+.span16 {
+  width: 1100px;
+  margin: 30px auto;
+}
+
+.span16 .brick-list {
+  width: 992px;
+  height: 614px;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  margin: 0 0 -14px -14px;
+}
+
+.span16 .brick-list .brick-item {
+  position: relative;
+  z-index: 1;
+  float: left;
+  width: 227px;
+  margin-left: 14px;
+  margin-bottom: 14px;
+  background: #fff;
+  -webkit-transition: all .2s linear;
+  transition: all .2s linear;
+}
+
+.span16 .brick-list .brick-item-m {
+  height: 246px;
+  padding: 34px 0 20px;
+}
+
+.span16 .brick-list .brick-item-m .title {
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  margin: 0 10px;
+  font-size: 14px;
+  font-weight: 400;
+  color: #333;
+}
+
+.span16 .brick-list .brick-item-m .desc {
+  margin: 0 10px 10px;
+  height: 18px;
+  font-size: 12px;
+  color: #b0b0b0;
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.span16 .brick-list .brick-item-m .price {
+  margin: 0 10px 10px;
+  text-align: center;
+  color: #ff6700;
+}
+
+.span16 .brick-list .brick-item-m-2 {
+  height: 300px;
+  padding: 20px 0;
+  background: #fff;
+  left: 10px;
+}
+
+.span16 .brick-list .brick-item-m-2 .title {
+  margin: 0 10px 2px;
+}
+
+.span16 .brick-list .brick-item-m-2 .price {
+  margin: 0 10px 14px;
+}
+
+.span16 .brick-list .figure-img {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto 18px;
+}
+
+.span16 .brick-list .figure-img img {
+  width: 160px;
+  height: 160px;
+}
