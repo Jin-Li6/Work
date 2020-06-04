@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>动态生成表格并实现隔行变色</title>
+    <style type="text/css">
+        table {
+            margin: 50px;
+            /*边框重合*/
+            border-collapse: collapse;
+        }
+
+        td,
+        th {
+            padding: 20px;
+            border: 1px solid #000;
+        }
+    </style>
+    <script src="../common.js" type="text/javascript" charset="utf-8"></script>
+</head>
+
+<body>
+    <h1>动态生成表格并实现隔行变色</h1>
+    姓名：<input type="text" name="tex1" id="tex1" value="" />
+    性别：<input type="text" name="tex2" id="tex2" value="" />
+    <input type="button" id="btn" value="添加" />
+    <table id="tb" cellpadding="0" cellspacing="0">
+        <thead>
+            <tr>
+                <th>序号</th>
+                <th>姓名</th>
+                <th>性别</th>
+                <th>操作</th>
+            </tr>
+        </thead>
+        <tbody id="tbody">
+
+        </tbody>
+    </table>
+</body>
+<script>
+    (function () {
+
+        //找节点
+        var tex1 = document.querySelector('#tex1');
+        var tex2 = document.querySelector('#tex2');
+        var btn = document.querySelector('#btn');
+        var tbody = document.querySelector('#tbody');
+        var num = 0;
+
+        /*
+        
+        
+        */
+
+        //1.点击按钮添加新行并添加属性可编辑；
+        btn.onclick = function () {
+            var username = tex1.value.trim();
+            var age = tex2.value.trim();
+            //获取表单的值，非空验证
+            if (username && age) {
+                //非空
+                creat(username, age); //添加新行
+                setColor(); //设置隔行变色
+                delRow(); //删除功能
+                addId(); //排序功能
+                cloneRow(); //复制功能
+            } else {
+                alert('请输入完整的信息');
+            }
+        }
+
+
+        function creat(username, age) {
+            //添加新行
+            var html = `<tr>
+							<td class="numId"></td>
+							<td contenteditable="true">${username}</td>
+							<td contenteditable="true">${age}</td>
+							<td>
+								<a class="dels" href="###">删除</a>
+								<a class="clones" href="###">复制</a>
+							</td>
+						</tr>`;
+            tbody.innerHTML += html; //渲染
+            //清空表单并聚焦
+            tex1.value = tex2.value = '';
+            tex1.focus();
+            // tbody.appendChild(html);//bug
+        }
+
+        //2.隔行变色；
+        function setColor() {
+            var rows = tbody.getElementsByTagName('tr');
+            for (var i = 0; i < rows.length; i++) {
+                if (i % 2 == 0) {
+                    css(rows[i], 'background', '#58bc58');
+                } else {
+                    css(rows[i], 'background', '#d8d8d8');
+                }
+            }
+        }
+
+        //3.删除当行；
+        function delRow() {
+            var dels = tbody.querySelectorAll('.dels');
+            for (var i = 0; i < dels.length; i++) {
+                dels[i].onclick = function () {
+                    //tbody.removeChild(rows[下标])
+                    var res = confirm('你要删除我吗？');
+                    if (res) {
+                        tbody.removeChild(this.parentNode.parentNode);
+                        addId(); //重置id值
+                        setColor();
+                    }
+                }
+            }
+
+        }
+
+        //4.序号重新刷新：项目中不一定需要刷新，根据产品的需求来决定
+        function addId() {
+            var numIds = tbody.querySelectorAll('.numId');
+            for (var i = 0; i < numIds.length; i++) {
+                numIds[i].innerHTML = i + 1;
+            }
+        }
+
+        //5.复制当行；
+        function cloneRow() {
+            //this:window
+            var clones = tbody.querySelectorAll('.clones');
+            for (var i = 0; i < clones.length; i++) {
+                clones[i].onclick = function () {
+                    //复制节点： 要复制节点.cloneNode(true)  
+                    var newrow = (this.parentNode.parentNode).cloneNode(true);
+                    //插入节点  父节点.appendChild(子节点)
+                    tbody.appendChild(newrow);
+                    setColor(); //设置隔行变色
+                    delRow(); //删除功能
+                    addId(); //排序功能
+                    cloneRow();
+                }
+
+            }
+        }
+
+    })();
+</script>
+
+</html>
